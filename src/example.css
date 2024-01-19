@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    color: #202020;
+    font-size: 13px;
+}
+
+body {
+    overflow: hidden;
+}
+
+/* IFRAME/EXAMPLE CONTENT */
+#viewerDiv {
+    height: 100%;
+}
+
+#viewerDiv>canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
