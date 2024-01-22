@@ -1,1 +1,2 @@
-import globe from './globe.js';
+// import globe from './globe.js';
+import empty_project from './empty_project.js';
